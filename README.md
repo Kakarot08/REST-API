@@ -8,6 +8,7 @@ Developing RESTful API's using following technologies:
 - SQL
 - SQLite
 - JSON
+- POSTMAN
 
 It's a starter project and anyone can contribute. 
 
